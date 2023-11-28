@@ -1,0 +1,469 @@
+SRP	ACCESSION	RUN_SET.RUN.IDENTIFIERS.PRIMARY_ID	SAMPLE.SAMPLE_NAME.TAXON_ID	Pool.Member.@sample_title	replicate	genotype/variation	stress	polysome fraction	biological replicates	barcode	knockdown	reference genome	source_name	disease	treatment	tissue	genotype	overexpression	tumor type	chip antibody	time	ectopic e2f-1 expressed	shRNA	treated with	agent	time point	cell line	tissue source	mtap status	vector	conditions	condition	cell type	time of treatment
+SRP310288	SRX10322196	SRR13943156	9606	Vector1									Vector, JHH-7 cells		Empty vector transfection		control										HCC cell line JHH-7							
+SRP310288	SRX10322197	SRR13943157	9606	Vector2									Vector, JHH-7 cells		Empty vector transfection		control										HCC cell line JHH-7							
+SRP310288	SRX10322198	SRR13943158	9606	Vector3									Vector, JHH-7 cells		Empty vector transfection		control										HCC cell line JHH-7							
+SRP310288	SRX10322199	SRR13943159	9606	shPRMT5_1									shPRMT5, JHH-7 cells		PRMT5 shRNA transfection		PRMT5 knockdown										HCC cell line JHH-7							
+SRP310288	SRX10322200	SRR13943160	9606	shPRMT5_2									shPRMT5, JHH-7 cells		PRMT5 shRNA transfection		PRMT5 knockdown										HCC cell line JHH-7							
+SRP310288	SRX10322201	SRR13943161	9606	shPRMT5_3									shPRMT5, JHH-7 cells		PRMT5 shRNA transfection		PRMT5 knockdown										HCC cell line JHH-7							
+SRP319164	SRX10828151	SRR14479966	9606	RNA-seq_MCF7_1									parental MCF7		untreated												MCF7							
+SRP319164	SRX10828152	SRR14479967	9606	RNA-seq_MCF7_2									parental MCF7		untreated												MCF7							
+SRP319164	SRX10828153	SRR14479968	9606	RNA-seq_MCF7-DR_1									doxorubicin-resistant MCF7 (MCF7-DR)		treated with 1 μM doxorubicin hydrochloride												MCF7-DR							
+SRP319164	SRX10828154	SRR14479969	9606	RNA-seq_MCF7-DR_2									doxorubicin-resistant MCF7 (MCF7-DR)		treated with 1 μM doxorubicin hydrochloride												MCF7-DR							
+SRP319164	SRX10828155	SRR14479970	9606	ATAC-seq_MCF7_1									parental MCF7		untreated												MCF7							
+SRP319164	SRX10828156	SRR14479971	9606	ATAC-seq_MCF7_2									parental MCF7		untreated												MCF7							
+SRP319164	SRX10828157	SRR14479972	9606	ATAC-seq_MCF7-DR_1									doxorubicin-resistant MCF7 (MCF7-DR)		treated with 1 μM doxorubicin hydrochloride												MCF7-DR							
+SRP319164	SRX10828158	SRR14479973	9606	ATAC-seq_MCF7-DR_2									doxorubicin-resistant MCF7 (MCF7-DR)		treated with 1 μM doxorubicin hydrochloride												MCF7-DR							
+SRP320300	SRX10918588	SRR14575418	9606	H1975_DMSO_1	1								Cancer cell line		DMSO												H1975							
+SRP320300	SRX10918589	SRR14575419	9606	H1975_DMSO_2	2								Cancer cell line		DMSO												H1975							
+SRP320300	SRX10918590	SRR14575420	9606	H1975_DMSO_3	3								Cancer cell line		DMSO												H1975							
+SRP320300	SRX10918591	SRR14575421	9606	H1975_PRMT5i_1	1								Cancer cell line		PRMT5i												H1975							
+SRP320300	SRX10918592	SRR14575422	9606	H1975_PRMT5i_2	2								Cancer cell line		PRMT5i												H1975							
+SRP320300	SRX10918593	SRR14575423	9606	H1975_PRMT5i_3	3								Cancer cell line		PRMT5i												H1975							
+SRP320300	SRX10918594	SRR14575424	9606	A427_DMSO_1	1								Cancer cell line		DMSO												A427							
+SRP320300	SRX10918595	SRR14575425	9606	A427_DMSO_2	2								Cancer cell line		DMSO												A427							
+SRP320300	SRX10918596	SRR14575426	9606	A427_DMSO_3	3								Cancer cell line		DMSO												A427							
+SRP320300	SRX10918597	SRR14575427	9606	A427_PRMT5i_1	1								Cancer cell line		PRMT5i												A427							
+SRP320300	SRX10918598	SRR14575428	9606	A427_PRMT5i_2	2								Cancer cell line		PRMT5i												A427							
+SRP320300	SRX10918599	SRR14575429	9606	A427_PRMT5i_3	3								Cancer cell line		PRMT5i												A427							
+SRP320300	SRX10918600	SRR14575430	9606	H441_DMSO_1	1								Cancer cell line		DMSO												H441							
+SRP320300	SRX10918601	SRR14575431	9606	H441_DMSO_2	2								Cancer cell line		DMSO												H441							
+SRP320300	SRX10918602	SRR14575432	9606	H441_DMSO_3	3								Cancer cell line		DMSO												H441							
+SRP320300	SRX10918603	SRR14575433	9606	H441_PRMT5i_1	1								Cancer cell line		PRMT5i												H441							
+SRP320300	SRX10918604	SRR14575434	9606	H441_PRMT5i_2	2								Cancer cell line		PRMT5i												H441							
+SRP320300	SRX10918605	SRR14575435	9606	H441_PRMT5i_3	3								Cancer cell line		PRMT5i												H441							
+SRP323714	SRX11118933	SRR14785630	9606	ADA PRMT5 Rep1									HCT116 CCL-247_ADA PRMT5		ADA treatment		MTAP-/-										HCT116	Colorectal						
+SRP323714	SRX11118934	SRR14785631	9606	ADA PRMT5 Rep2									HCT116 CCL-247_ADA PRMT5		ADA treatment		MTAP-/-										HCT116	Colorectal						
+SRP323714	SRX11118935	SRR14785632	9606	ADA PRMT5 Rep3									HCT116 CCL-247_ADA PRMT5		ADA treatment		MTAP-/-										HCT116	Colorectal						
+SRP323714	SRX11118936	SRR14785633	9606	WT PRMT5 Rep1									HCT116 CCL-247_WT PRMT5		WT		MTAP-/-										HCT116	Colorectal						
+SRP323714	SRX11118937	SRR14785634	9606	WT PRMT5 Rep2									HCT116 CCL-247_WT PRMT5		WT		MTAP-/-										HCT116	Colorectal						
+SRP323714	SRX11118938	SRR14785635	9606	WT PRMT5 Rep3									HCT116 CCL-247_WT PRMT5		WT		MTAP-/-										HCT116	Colorectal						
+SRP324755	SRX11185462	SRR14867935	9606	NCI-H460 cells, GFPkd1									Human lung adenocarcinoma cell line		lentivirus infection NCI-H460 for shRNA against GFP		control										NCI-H460							
+SRP324755	SRX11185463	SRR14867936	9606	NCI-H460 cells, GFPkd2									Human lung adenocarcinoma cell line		lentivirus infection NCI-H460 for shRNA against GFP		control										NCI-H460							
+SRP324755	SRX11185464	SRR14867937	9606	NCI-H460 cells, GFPkd3									Human lung adenocarcinoma cell line		lentivirus infection NCI-H460 for shRNA against GFP		control										NCI-H460							
+SRP324755	SRX11185465	SRR14867938	9606	NCI-H460 cells, PRMT5kd1									Human lung adenocarcinoma cell line		lentivirus infection NCI-H460 for shRNA against PRMT5		PRMT5 knockdown										NCI-H460							
+SRP324755	SRX11185466	SRR14867939	9606	NCI-H460 cells, PRMT5kd2									Human lung adenocarcinoma cell line		lentivirus infection NCI-H460 for shRNA against PRMT5		PRMT5 knockdown										NCI-H460							
+SRP324755	SRX11185467	SRR14867940	9606	NCI-H460 cells, PRMT5kd3									Human lung adenocarcinoma cell line		lentivirus infection NCI-H460 for shRNA against PRMT5		PRMT5 knockdown										NCI-H460							
+SRP324902	SRX11189848	SRR14872397	9606	CHLA_20_DMSO_rep1									CHLA-20 cells treated with DMSO replicate 1		DMSO												CHLA-20							
+SRP324902	SRX11189849	SRR14872398	9606	CHLA_20_DMSO_rep2									CHLA-20 cells treated with DMSO replicate 2		DMSO												CHLA-20							
+SRP324902	SRX11189850	SRR14872399	9606	CHLA_20_JSK591_rep1									CHLA-20 cells treated with JSK591 replicate 1		JSK591												CHLA-20							
+SRP324902	SRX11189851	SRR14872400	9606	CHLA_20_JSK591_rep2									CHLA-20 cells treated with JSK591 replicate 2		JSK591												CHLA-20							
+SRP324902	SRX11189852	SRR14872401	9606	NGP_DMSO_rep1									NGP cells treated with DMSO replicate 1		DMSO												NGP							
+SRP324902	SRX11189853	SRR14872402	9606	NGP_DMSO_rep2									NGP cells treated with DMSO replicate 2		DMSO												NGP							
+SRP324902	SRX11189854	SRR14872403	9606	NGP_JSK591_rep1									NGP cells treated with JSK591 replicate 1		JSK591												NGP							
+SRP324902	SRX11189855	SRR14872404	9606	NGP_JSK591_rep2									NGP cells treated with JSK591 replicate 2		JSK591												NGP							
+SRP341597	SRX12633121	SRR16355590	9606	T24-NC									bladder cancer cell line T24		Negative control												bladder cancer cell line T24							
+SRP341597	SRX12633122	SRR16355591	9606	T24-S1									bladder cancer cell line T24		0.04 OD Si-RNA-1												bladder cancer cell line T24							
+SRP341597	SRX12633123	SRR16355592	9606	T24-S2									bladder cancer cell line T24		0.04 OD Si-RNA-2												bladder cancer cell line T24							
+SRP064144	SRX1283460		9606	RNAPII ChIP, shGFP 8wg16		Expressing shRNA targeting GFP under CMV promoter.							Raji (lymphocyte)																				Raji (EBNA 1 positive)	
+SRP064144	SRX1283461		9606	RNAPII ChIP, shSMN 8wg16		Expressing shRNA targeting SMN under CMV promoter.							Raji (lymphocyte)																				Raji (EBNA 1 positive)	
+SRP064144	SRX1283462		9606	RNAPII ChIP, shGFP 4h8		Expressing shRNA targeting GFP under CMV promoter.							Raji (lymphocyte)																				Raji (EBNA 1 positive)	
+SRP064144	SRX1283463		9606	RNAPII ChIP, shSMN 4h8		Expressing shRNA targeting SMN under CMV promoter.							Raji (lymphocyte)																				Raji (EBNA 1 positive)	
+SRP064144	SRX1283464		9606	RNAPII ChIP, Wild-type RNAPII		Expressing amanitin-resistant wt POLR2A							Raji (lymphocyte)																				Raji (EBNA 1 positive)	
+SRP064144	SRX1283465		9606	RNAPII ChIP, R1810A mutant RNAPII		Expressing amanitin-resistant R1810A mutant POLR2A							Raji (lymphocyte)																				Raji (EBNA 1 positive)	
+SRP064144	SRX1283466		9606	SMN ChIP		Expressing Dox inducible GFP-SMN fusion protein. Construct is hygromycin resistant.							HEK293																				HEK293	
+SRP064144	SRX1283467		9606	SMN-GFP ChIP		Expressing Dox inducible GFP-SMN fusion protein. Construct is hygromycin resistant.							HEK293																				HEK293	
+SRP064144	SRX1283468		9606	IgG ChIP		Wild type							Raji (lymphocyte)																				Raji (EBNA 1 positive)	
+SRP064740	SRX1331406	SRR2636948	9606	Flag-ZNF224									HEK293 cell line transfected with Flag-ZNF224, Flag ChIP							anti-Flag M2							HEK293							
+SRP341597	SRX13852141	SRR17688881	9606	UM-UC-3-NC									bladder cancer cell line UM-UC-3		Negative control												bladder cancer cell line UM-UC-3							
+SRP341597	SRX13852142	SRR17688882	9606	UM-UC-3-S1									bladder cancer cell line UM-UC-3		0.04 OD Si-RNA-1												bladder cancer cell line UM-UC-3							
+SRP341597	SRX13852143	SRR17688883	9606	UM-UC-3-S2									bladder cancer cell line UM-UC-3		0.04 OD Si-RNA-2												bladder cancer cell line UM-UC-3							
+SRP356653	SRX13898240	SRR17735685	9606	Z-138_MIGR1_Control_rep1									Z-138 cells		Treated with DMSO for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898241	SRR17735684	9606	Z-138_MIGR1_Control_rep2									Z-138 cells		Treated with DMSO for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898242	SRR17735683	9606	Z-138_MIGR1_Control_rep3									Z-138 cells		Treated with DMSO for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898243	SRR17735682	9606	Z-138_MIGR1_GSK591_rep1									Z-138 cells		Treated with 5µM GSK591 for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898244	SRR17735681	9606	Z-138_MIGR1_GSK591_rep2									Z-138 cells		Treated with 5µM GSK591 for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898245	SRR17735680	9606	Z-138_MIGR1_GSK591_rep3									Z-138 cells		Treated with 5µM GSK591 for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898246	SRR17735679	9606	Z-138_MIGR1_Ro_rep1									Z-138 cells		Treated with 5µM Ro for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898247	SRR17735678	9606	Z-138_MIGR1_Ro_rep2									Z-138 cells		Treated with 5µM Ro for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898248	SRR17735677	9606	Z-138_MIGR1_Ro_rep3									Z-138 cells		Treated with 5µM Ro for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898249	SRR17735676	9606	Z-138_MIGR1_GSK591_Ro_rep1									Z-138 cells		Treated with 5µM GSK591 and 5µM Ro for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898250	SRR17735675	9606	Z-138_MIGR1_GSK591_Ro_rep2									Z-138 cells		Treated with 5µM GSK591 and 5µM Ro for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356653	SRX13898251	SRR17735674	9606	Z-138_MIGR1_GSK591_Ro_rep3									Z-138 cells		Treated with 5µM GSK591 and 5µM Ro for 24hr			Overexpressing empty vector								48hr after retrovirus transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898301	SRR17735744	9606	Z-138_MSI2ADAR_Control_rep1									Z-138 cells		Treated with DMSO for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898302	SRR17735743	9606	Z-138_MSI2ADAR_Control_rep2									Z-138 cells		Treated with DMSO for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898303	SRR17735742	9606	Z-138_MSI2ADAR_Ro_rep1									Z-138 cells		Treated with 5µM Ro for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898304	SRR17735741	9606	Z-138_MSI2ADAR_Ro_rep2									Z-138 cells		Treated with 5µM Ro for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898305	SRR17735740	9606	Z-138_MSI2ADAR_Ro_rep3									Z-138 cells		Treated with 5µM Ro for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898306	SRR17735739	9606	Z-138_MSI2ADAR_GSK591_rep1									Z-138 cells		Treated with 5µM GSK591 for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898307	SRR17735738	9606	Z-138_MSI2ADAR_GSK591_rep2									Z-138 cells		Treated with 5µM GSK591 for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898308	SRR17735737	9606	Z-138_MSI2ADAR_GSK591_Ro_rep1									Z-138 cells		Treated with 5µM GSK591 and 5µM Ro for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898309	SRR17735736	9606	Z-138_MSI2ADAR_GSK591_Ro_rep2									Z-138 cells		Treated with 5µM GSK591 and 5µM Ro for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP356658	SRX13898310	SRR17735735	9606	Z-138_MSI2ADAR_GSK591_Ro_rep3									Z-138 cells		Treated with 5µM GSK591 and 5µM Ro for 24hr			Overexpressing MSI2-HyperADAR fusion								48hr after transduction	Z-138 cells						Mantle cell lymphoma cell line	
+SRP066444	SRX1439594	SRR2932154	9606	PRMT5/Knockdown_1									AML cell line (MV4-11)_PMRT5/Knockdown														MV4-11							
+SRP066444	SRX1439595	SRR2932155	9606	PRMT5/Knockdown_2									AML cell line (MV4-11)_PMRT5/Knockdown														MV4-11							
+SRP066444	SRX1439596	SRR2932156	9606	PRMT5/Knockdown_3									AML cell line (MV4-11)_PMRT5/Knockdown														MV4-11							
+SRP066444	SRX1439597	SRR2932157	9606	Scrambled control_1									AML cell line (MV4-11)_scrambled														MV4-11							
+SRP066444	SRX1439598	SRR2932158	9606	Scrambled control_2									AML cell line (MV4-11)_scrambled														MV4-11							
+SRP066444	SRX1439599	SRR2932159	9606	Scrambled control_3									AML cell line (MV4-11)_scrambled														MV4-11							
+SRP067045	SRX1466273	SRR2976843	9606	Input_ChIP-seq									Input		no treatment					none (input)							breast cancer cell line MDA-MB-231							
+SRP067045	SRX1466274	SRR2976844	9606	PRMT5_ChIP-seq									PRMT5		no treatment					PRMT5 (Bethyl Labs A300-849A)							breast cancer cell line MDA-MB-231							
+SRP067026	SRX1466532	SRR2977058	9606	Scrambled control shRNA_1									Scrambled control shRNA (control for WDR77 shRNA)		Infected cells were selected with puromycin (1mg/mL) for 5 days												breast cancer cell line MDA-MB-231							
+SRP067026	SRX1466533	SRR2977059	9606	Scrambled control shRNA_2									Scrambled control shRNA (control for PRMT5 shRNA)		Infected cells were selected with puromycin (1mg/mL) for 5 days												breast cancer cell line MDA-MB-231							
+SRP067026	SRX1466534	SRR2977060	9606	WDR77 shRNA									WDR77 shRNA		Infected cells were selected with puromycin (1mg/mL) for 5 days												breast cancer cell line MDA-MB-231							
+SRP067026	SRX1466535	SRR2977061	9606	PRMT5 shRNA									PRMT5 shRNA		Infected cells were selected with puromycin (1mg/mL) for 5 days												breast cancer cell line MDA-MB-231							
+SRP067025	SRX1466537	SRR2977062	9606	DMSO-treated									MDA-MB-231		5µM DMSO for 4 hours at 37°C												breast cancer cell line MDA-MB-231							
+SRP067025	SRX1466538	SRR2977063	9606	HPTB-treated									MDA-MB-231		5µM HPTB for 4 hours at 37°C												breast cancer cell line MDA-MB-231							
+SRP379185	SRX15637843		9606	L33_Richter's_Lymph_Node_GEX						SI-TT-B1			Lymph Node	Richter's Transformation		Lymph Node																		
+SRP379185	SRX15637844		9606	L34_Richter's_PBMC_GEX						SI-TT-C2			PBMC	Richter's Transformation		PBMC																		
+SRP379185	SRX15637845		9606	L35_CLL_PBMC_GEX						SI-TT-D3			PBMC	Chronic Lymphocytic Leukemia		PBMC																		
+SRP379185	SRX15637846		9606	L36_Richter's_Lymph_Node_GEX						SI-TT-E4			Lymph Node	Richter's Transformation		Lymph Node																		
+SRP379185	SRX15637847		9606	L37_Richter's_PBMC_GEX						SI-TT-F5			PBMC	Richter's Transformation		PBMC																		
+SRP379185	SRX15637848		9606	L38_CLL_PBMC_GEX						SI-TT-G6			PBMC	Chronic Lymphocytic Leukemia		PBMC																		
+SRP379185	SRX15637849		9606	L33_Richter's_Lymph_Node_VDJ						SI-TT-A1			Lymph Node	Richter's Transformation		Lymph Node																		
+SRP379185	SRX15637850		9606	L34_Richter's_PBMC_VDJ						SI-TT-B2			PBMC	Richter's Transformation		PBMC																		
+SRP379185	SRX15637851		9606	L35_CLL_PBMC_VDJ						SI-TT-C3			PBMC	Chronic Lymphocytic Leukemia		PBMC																		
+SRP379185	SRX15637852		9606	L36_Richter's_Lymph_Node_VDJ						SI-TT-D4			Lymph Node	Richter's Transformation		Lymph Node																		
+SRP379185	SRX15637853		9606	L37_Richter's_PBMC_VDJ						SI-TT-E5			PBMC	Richter's Transformation		PBMC																		
+SRP379185	SRX15637854		9606	L38_CLL_PBMC_VDJ						SI-TT-F6			PBMC	Chronic Lymphocytic Leukemia		PBMC																		
+SRP379612	SRX15675477	SRR19624864	9606	hEnSC,Control,1									Endometrium			Endometrium					0h												stromal cells	
+SRP379612	SRX15675478	SRR19624863	9606	hEnSC,Control,2									Endometrium			Endometrium					0h												stromal cells	
+SRP379612	SRX15675479	SRR19624862	9606	hEnSC,Control,Decidual1									Endometrium			Endometrium					48h												stromal cells	
+SRP379612	SRX15675480	SRR19624861	9606	hEnSC,Control,Decidual2									Endometrium			Endometrium					48h												stromal cells	
+SRP379612	SRX15675481	SRR19624860	9606	hEnSC,GSK591,1									Endometrium			Endometrium					0h												stromal cells	
+SRP379612	SRX15675482	SRR19624859	9606	hEnSC,GSK591,2									Endometrium			Endometrium					0h												stromal cells	
+SRP379612	SRX15675483	SRR19624858	9606	hEnSC,GSK591,Decidual1									Endometrium			Endometrium					48h												stromal cells	
+SRP379612	SRX15675484	SRR19624857	9606	hEnSC,GSK591,Decidual2									Endometrium			Endometrium					48h												stromal cells	
+SRP071668	SRX1629239	SRR3222464	9606	sh2 R1881 1 AR									cell line VCaP		R1881					AR			PRMT5 sh2				VCaP							
+SRP071668	SRX1629240	SRR3222465	9606	NTC R1881 2 AR									cell line VCaP		R1881					AR			PRMT5 NTC				VCaP							
+SRP071668	SRX1629241	SRR3222466	9606	sh1 R1881 2 AR									cell line VCaP		R1881					AR			PRMT5 sh1				VCaP							
+SRP071668	SRX1629242	SRR3222467	9606	sh2 R1881 2 AR									cell line VCaP		R1881					AR			PRMT5 sh2				VCaP							
+SRP071668	SRX1629243	SRR3222468	9606	NTC DHT 2 AR									cell line VCaP		DHT					AR			PRMT5 NTC				VCaP							
+SRP071668	SRX1629244	SRR3222469	9606	sh1 DHT 2 AR									cell line VCaP		DHT					AR			PRMT5 sh1				VCaP							
+SRP071668	SRX1629245	SRR3222470	9606	sh2 DHT 2 AR									cell line VCaP		DHT					AR			PRMT5 sh2				VCaP							
+SRP071668	SRX1629246	SRR3222471	9606	sh3 DHT 2 AR									cell line VCaP		DHT					AR			PRMT5 sh3				VCaP							
+SRP071668	SRX1629247	SRR3222472	9606	NTC DHT 3 AR									cell line VCaP		DHT					AR			PRMT5 NTC				VCaP							
+SRP071668	SRX1629248	SRR3222473	9606	sh1 DHT 3 AR									cell line VCaP		DHT					AR			PRMT5 sh1				VCaP							
+SRP071668	SRX1629249	SRR3222474	9606	sh2 DHT 3 AR									cell line VCaP		DHT					AR			PRMT5 sh2				VCaP							
+SRP071668	SRX1629250	SRR3222475	9606	sh3 DHT 3 AR									cell line VCaP		DHT					AR			PRMT5 sh3				VCaP							
+SRP071668	SRX1629251	SRR3222476	9606	NTC DHT 1 ERG									cell line VCaP		DHT					ERG			PRMT5 NTC				VCaP							
+SRP071668	SRX1629252	SRR3222477	9606	sh1 DHT 1 ERG									cell line VCaP		DHT					ERG			PRMT5 sh1				VCaP							
+SRP071668	SRX1629253	SRR3222478	9606	sh2 DHT 1 ERG									cell line VCaP		DHT					ERG			PRMT5 sh2				VCaP							
+SRP071668	SRX1629254	SRR3222479	9606	sh3 DHT 1 ERG									cell line VCaP		DHT					ERG			PRMT5 sh3				VCaP							
+SRP071668	SRX1629255	SRR3222480	9606	NTC DHT 2 ERG									cell line VCaP		DHT					ERG			PRMT5 NTC				VCaP							
+SRP071668	SRX1629256	SRR3222481	9606	sh1 DHT 2 ERG									cell line VCaP		DHT					ERG			PRMT5 sh1				VCaP							
+SRP071668	SRX1629257	SRR3222482	9606	sh2 DHT 2 ERG									cell line VCaP		DHT					ERG			PRMT5 sh2				VCaP							
+SRP071668	SRX1629258	SRR3222483	9606	sh3 DHT 2 ERG									cell line VCaP		DHT					ERG			PRMT5 sh3				VCaP							
+SRP388148	SRX16671701	SRR20648579	9606	CHL1 cell, CDK4/6 inhibition,6 days, 2									CHL1		CDK4/6 inhibition		WT									6 days	CHL1						melanoma cell	
+SRP388148	SRX16671702	SRR20648578	9606	CHL1 cell, CDK4/6 inhibition,6 days, 1									CHL1		CDK4/6 inhibition		WT									6 days	CHL1						melanoma cell	
+SRP388148	SRX16671703	SRR20648577	9606	CHL1 cell, PRMT5 inhibition,72 hours, 2									CHL1		PRMT5 inhibition		WT									72 hours	CHL1						melanoma cell	
+SRP388148	SRX16671704	SRR20648576	9606	CHL1 cell, PRMT5 inhibition,72 hours, 1									CHL1		PRMT5 inhibition		WT									72 hours	CHL1						melanoma cell	
+SRP388148	SRX16671705	SRR20648575	9606	CHL1 cell, CDK4/6 inhibition,72 hours, 2									CHL1		CDK4/6 inhibition		WT									72 hours	CHL1						melanoma cell	
+SRP388148	SRX16671706	SRR20648574	9606	CHL1 cell, CDK4/6 inhibition,72 hours, 1									CHL1		CDK4/6 inhibition		WT									72 hours	CHL1						melanoma cell	
+SRP388148	SRX16671707	SRR20648573	9606	CHL1 cell, control,72 hours, 2									CHL1		Control		WT									72 hours	CHL1						melanoma cell	
+SRP388148	SRX16671708	SRR20648572	9606	CHL1 cell, control,72 hours, 1									CHL1		Control		WT									72 hours	CHL1						melanoma cell	
+SRP073189	SRX1693951	SRR3362661	9606	A549_GFPkd_1							GFP (control knockdown)		A549 lung adenocarcinoma control (GFP) knockdown														A549 lung adenocarcinoma							
+SRP073189	SRX1693952	SRR3362662	9606	A549_GFPkd_2							GFP (control knockdown)		A549 lung adenocarcinoma control (GFP) knockdown														A549 lung adenocarcinoma							
+SRP073189	SRX1693953	SRR3362663	9606	A549_GFPkd_3							GFP (control knockdown)		A549 lung adenocarcinoma control (GFP) knockdown														A549 lung adenocarcinoma							
+SRP073189	SRX1693954	SRR3362664	9606	A549_PRMT5kd_1							PRMT5 knockdown		A549 lung adenocarcinoma PRMT5 shRNA knockdown														A549 lung adenocarcinoma							
+SRP073189	SRX1693955	SRR3362665	9606	A549_PRMT5kd_2							PRMT5 knockdown		A549 lung adenocarcinoma PRMT5 shRNA knockdown														A549 lung adenocarcinoma							
+SRP073189	SRX1693956	SRR3362666	9606	A549_PRMT5kd_3							PRMT5 knockdown		A549 lung adenocarcinoma PRMT5 shRNA knockdown														A549 lung adenocarcinoma							
+SRP073189	SRX1693957	SRR3362667	9606	A549_MEP50kd_1							MEP50 knockdown		A549 lung adenocarcinoma MEP50 shRNA knockdown														A549 lung adenocarcinoma							
+SRP073189	SRX1693958	SRR3362668	9606	A549_MEP50kd_2							MEP50 knockdown		A549 lung adenocarcinoma MEP50 shRNA knockdown														A549 lung adenocarcinoma							
+SRP073189	SRX1693959	SRR3362669	9606	A549_MEP50kd_3							MEP50 knockdown		A549 lung adenocarcinoma MEP50 shRNA knockdown														A549 lung adenocarcinoma							
+SRP388148	SRX19630386	SRR23798296	9606	A375 cell, control,6 days [SA-SPLICE19-1_S1]									SA-SPLICE19-1_S1		Control	SA-SPLICE19-1_S1	WT										A375						melanoma cell	
+SRP388148	SRX19630387	SRR23798295	9606	A375 cell, control,6 days [SA-SPLICE19-2_S2]									SA-SPLICE19-2_S2		Control	SA-SPLICE19-2_S2	WT										A375						melanoma cell	
+SRP388148	SRX19630388	SRR23798294	9606	A375 cell, CDK4/6 inhibition,6 days [SA-SPLICE19-3_S3]									SA-SPLICE19-3_S3		CDK4/6 inhibition	SA-SPLICE19-3_S3	WT										A375						melanoma cell	
+SRP388148	SRX19630389	SRR23798293	9606	A375 cell, CDK4/6 inhibition,6 days [SA-SPLICE19-4_S4]									SA-SPLICE19-4_S4		CDK4/6 inhibition	SA-SPLICE19-4_S4	WT										A375						melanoma cell	
+SRP097000	SRX2501925	SRR5185918	9606	DMSO replicate 1									U-87 MG cells, DMSO		DMSO												U-87 MG							
+SRP097000	SRX2501926	SRR5185919	9606	DMSO replicate 2									U-87 MG cells, DMSO		DMSO												U-87 MG							
+SRP097000	SRX2501927	SRR5185920	9606	DMSO replicate 3									U-87 MG cells, DMSO		DMSO												U-87 MG							
+SRP097000	SRX2501928	SRR5185921	9606	EPZ015666 replicate 1									U-87 MG cells, EPZ015666		EPZ015666												U-87 MG							
+SRP097000	SRX2501929	SRR5185922	9606	EPZ015666 replicate 2									U-87 MG cells, EPZ015666		EPZ015666												U-87 MG							
+SRP097000	SRX2501930	SRR5185923	9606	EPZ015666 replicate 3									U-87 MG cells, EPZ015666		EPZ015666												U-87 MG							
+SRP126247	SRX3450460	SRR6353795	9606	MCF7-shCTRL Rep1		shCTRL							MCF7 shCTRL ESA+CD24lowCD44+ cells																				ESA+CD24lowCD44+ cells	
+SRP126247	SRX3450461	SRR6353796	9606	MCF7-shCTRL Rep2		shCTRL							MCF7 shCTRL ESA+CD24lowCD44+ cells																				ESA+CD24lowCD44+ cells	
+SRP126247	SRX3450462	SRR6353797	9606	MCF7-shCTRL Rep3		shCTRL							MCF7 shCTRL ESA+CD24lowCD44+ cells																				ESA+CD24lowCD44+ cells	
+SRP126247	SRX3450463	SRR6353798	9606	MCF7-shPRMT5 Rep1		shPRMT5							MCF7 shPRMT5 ESA+CD24lowCD44+ cells																				ESA+CD24lowCD44+ cells	
+SRP126247	SRX3450464	SRR6353799	9606	MCF7-shPRMT5 Rep2		shPRMT5							MCF7 shPRMT5 ESA+CD24lowCD44+ cells																				ESA+CD24lowCD44+ cells	
+SRP126247	SRX3450465	SRR6353800	9606	MCF7-shPRMT5 Rep3		shPRMT5							MCF7 shPRMT5 ESA+CD24lowCD44+ cells																				ESA+CD24lowCD44+ cells	
+SRP127787	SRX3524974		9606	MAVER1_day3_vehicle									CellLine: MAVER-1						Mantle Cell Lymphoma					Vehicle		Day 3	MAVER-1							
+SRP127787	SRX3524975		9606	MAVER1_day3_200nM_GSK595									CellLine: MAVER-1						Mantle Cell Lymphoma					200nM GSK3326595		Day 3	MAVER-1							
+SRP127787	SRX3524976		9606	MAVER1_day6_vehicle									CellLine: MAVER-1						Mantle Cell Lymphoma					Vehicle		Day 6	MAVER-1							
+SRP127787	SRX3524977		9606	MAVER1_day6_200nM_GSK595									CellLine: MAVER-1						Mantle Cell Lymphoma					200nM GSK3326595		Day 6	MAVER-1							
+SRP127787	SRX3524978		9606	JVM2_day3_vehicle									CellLine: JVM-2						Mantle Cell Lymphoma					Vehicle		Day 3	JVM-2							
+SRP127787	SRX3524979		9606	JVM2_day3_200nM_GSK595									CellLine: JVM-2						Mantle Cell Lymphoma					200nM GSK3326595		Day 3	JVM-2							
+SRP127787	SRX3524980		9606	JVM2_day6_vehicle									CellLine: JVM-2						Mantle Cell Lymphoma					Vehicle		Day 6	JVM-2							
+SRP127787	SRX3524981		9606	JVM2_day6_200nM_GSK595									CellLine: JVM-2						Mantle Cell Lymphoma					200nM GSK3326595		Day 6	JVM-2							
+SRP127787	SRX3524982		9606	SUDHL6_day3_vehicle									CellLine: SU-DHL-6						Diffuse Large B-cell Lymphoma					Vehicle		Day 3	SU-DHL-6							
+SRP127787	SRX3524983		9606	SUDHL6_day3_200nM_GSK595									CellLine: SU-DHL-6						Diffuse Large B-cell Lymphoma					200nM GSK3326595		Day 3	SU-DHL-6							
+SRP127787	SRX3524984		9606	SUDHL6_day6_vehicle									CellLine: SU-DHL-6						Diffuse Large B-cell Lymphoma					Vehicle		Day 6	SU-DHL-6							
+SRP127787	SRX3524985		9606	SUDHL6_day6_200nM_GSK595									CellLine: SU-DHL-6						Diffuse Large B-cell Lymphoma					200nM GSK3326595		Day 6	SU-DHL-6							
+SRP127787	SRX3524986		9606	SUDHL5_day3_vehicle									CellLine: SU-DHL-5						Diffuse Large B-cell Lymphoma					Vehicle		Day 3	SU-DHL-5							
+SRP127787	SRX3524987		9606	SUDHL5_day3_200nM_GSK595									CellLine: SU-DHL-5						Diffuse Large B-cell Lymphoma					200nM GSK3326595		Day 3	SU-DHL-5							
+SRP127787	SRX3524988		9606	SUDHL5_day6_vehicle									CellLine: SU-DHL-5						Diffuse Large B-cell Lymphoma					Vehicle		Day 6	SU-DHL-5							
+SRP127787	SRX3524989		9606	SUDHL5_day6_200nM_GSK595									CellLine: SU-DHL-5						Diffuse Large B-cell Lymphoma					200nM GSK3326595		Day 6	SU-DHL-5							
+SRP127787	SRX3524990		9606	SUDHL4_day3_vehicle									CellLine: SU-DHL-4						Diffuse Large B-cell Lymphoma					Vehicle		Day 3	SU-DHL-4							
+SRP127787	SRX3524991		9606	SUDHL4_day3_200nM_GSK595									CellLine: SU-DHL-4						Diffuse Large B-cell Lymphoma					200nM GSK3326595		Day 3	SU-DHL-4							
+SRP127787	SRX3524992		9606	SUDHL4_day6_vehicle									CellLine: SU-DHL-4						Diffuse Large B-cell Lymphoma					Vehicle		Day 6	SU-DHL-4							
+SRP127787	SRX3524993		9606	SUDHL4_day6_200nM_GSK595									CellLine: SU-DHL-4						Diffuse Large B-cell Lymphoma					200nM GSK3326595		Day 6	SU-DHL-4							
+SRP134236	SRX3777460	SRR6820615	9606	IR- Dox- 1		No knockdown	0 Gy radiation						Prostate cancer		Dox-												LNCaP-shPRMT5							
+SRP134236	SRX3777461	SRR6820616	9606	IR- Dox+ 1		PRMT5 knockdown	0 Gy radiation						Prostate cancer		Dox+												LNCaP-shPRMT5							
+SRP134236	SRX3777462	SRR6820617	9606	IR- Dox- 2		No knockdown	0 Gy radiation						Prostate cancer		Dox-												LNCaP-shPRMT5							
+SRP134236	SRX3777463	SRR6820618	9606	IR- Dox+ 2		PRMT5 knockdown	0 Gy radiation						Prostate cancer		Dox+												LNCaP-shPRMT5							
+SRP134236	SRX3777464	SRR6820619	9606	IR- Dox- 3		No knockdown	0 Gy radiation						Prostate cancer		Dox-												LNCaP-shPRMT5							
+SRP134236	SRX3777465	SRR6820620	9606	IR- Dox+ 3		PRMT5 knockdown	0 Gy radiation						Prostate cancer		Dox+												LNCaP-shPRMT5							
+SRP134236	SRX3777466	SRR6820621	9606	IR+ Dox- 1R		No knockdown	2 Gy radiation						Prostate cancer		Dox-												LNCaP-shPRMT5							
+SRP134236	SRX3777467	SRR6820622	9606	IR+ Dox+ 1R		PRMT5 knockdown	2 Gy radiation						Prostate cancer		Dox+												LNCaP-shPRMT5							
+SRP134236	SRX3777468	SRR6820623	9606	IR+ Dox- 2R		No knockdown	2 Gy radiation						Prostate cancer		Dox-												LNCaP-shPRMT5							
+SRP134236	SRX3777469	SRR6820624	9606	IR+ Dox+ 2R		PRMT5 knockdown	2 Gy radiation						Prostate cancer		Dox+												LNCaP-shPRMT5							
+SRP134236	SRX3777470	SRR6820625	9606	IR+ Dox- 3R		No knockdown	2 Gy radiation						Prostate cancer		Dox-												LNCaP-shPRMT5							
+SRP134236	SRX3777471	SRR6820626	9606	IR+ Dox+ 3R		PRMT5 knockdown	2 Gy radiation						Prostate cancer		Dox+												LNCaP-shPRMT5							
+SRP135890	SRX3803252	SRR6847870	9606	NT siRNA E2F-1 RIP-seq 1									U2OS cells														U2OS				25nM NT siRNA, 72h		Osteosarcoma, epithelial	
+SRP135890	SRX3803253	SRR6847871	9606	NT siRNA E2F-1 RIP-seq 2									U2OS cells														U2OS				25nM NT siRNA, 72h		Osteosarcoma, epithelial	
+SRP135890	SRX3803254	SRR6847872	9606	TSN siRNA E2F-1 RIP-seq 1									U2OS cells														U2OS				25nM p100/TSN siRNA, 72h		Osteosarcoma, epithelial	
+SRP135890	SRX3803255	SRR6847873	9606	TSN siRNA E2F-1 RIP-seq 2									U2OS cells														U2OS				25nM p100/TSN siRNA, 72h		Osteosarcoma, epithelial	
+SRP135890	SRX3803256	SRR6847874	9606	E2F-1 siRNA E2F-1 RIP-seq									U2OS cells														U2OS				25nM E2F-1 siRNA, 72h		Osteosarcoma, epithelial	
+SRP135891	SRX3803257	SRR6847875	9606	pTRE cell line RNA-seq replicate 1									pTRE U2OS stable cells									empty vector cell line					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803258	SRR6847876	9606	pTRE cell line RNA-seq replicate 2									pTRE U2OS stable cells									empty vector cell line					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803259	SRR6847877	9606	pTRE cell line RNA-seq replicate 3									pTRE U2OS stable cells									empty vector cell line					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803260	SRR6847878	9606	WT cell line RNA-seq replicate 1									WT U2OS stable cells									HA-tagged wild-type E2F-1					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803261	SRR6847879	9606	WT cell line RNA-seq replicate 2									WT U2OS stable cells									HA-tagged wild-type E2F-1					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803262	SRR6847880	9606	WT cell line RNA-seq replicate 3									WT U2OS stable cells									HA-tagged wild-type E2F-1					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803263	SRR6847881	9606	R109K cell line RNA-seq replicate 1									R109K U2OS stable cells									HA-tagged R109K mutated E2F-1					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803264	SRR6847882	9606	R109K cell line RNA-seq replicate 2									R109K U2OS stable cells									HA-tagged R109K mutated E2F-1					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803265	SRR6847883	9606	R109K cell line RNA-seq replicate 3									R109K U2OS stable cells									HA-tagged R109K mutated E2F-1					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803266	SRR6847884	9606	KK cell line RNA-seq replicate 1									KK U2OS stable cells									HA-tagged R111/113K mutated E2F-1 (KK)					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803267	SRR6847885	9606	KK cell line RNA-seq replicate 2									KK U2OS stable cells									HA-tagged R111/113K mutated E2F-1 (KK)					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP135891	SRX3803268	SRR6847886	9606	KK cell line RNA-seq replicate 3									KK U2OS stable cells									HA-tagged R111/113K mutated E2F-1 (KK)					U2OS				1ug/ml doxycycline, 24h		Osteosarcoma, epithelial	
+SRP149386	SRX4145141	SRR7239310	9606	TMD8 sgPRMT5 0-1		expressing sgRNA targeting PRMT5							TMD8 sgPRMT5 0 day											20ng/ml doxycycline for 0 days.			TMD8						ABC DLBCL cell line	
+SRP149386	SRX4145142	SRR7239311	9606	TMD8 sgPRMT5 0-2		expressing sgRNA targeting PRMT5							TMD8 sgPRMT5 0 day											20ng/ml doxycycline for 0 days.			TMD8						ABC DLBCL cell line	
+SRP149386	SRX4145143	SRR7239312	9606	TMD8 sgPRMT5 3-1		expressing sgRNA targeting PRMT5							TMD8 sgPRMT5 3 days											20ng/ml doxycycline for 3 days.			TMD8						ABC DLBCL cell line	
+SRP149386	SRX4145144	SRR7239313	9606	TMD8 sgPRMT5 3-2		expressing sgRNA targeting PRMT5							TMD8 sgPRMT5 3 days											20ng/ml doxycycline for 3 days.			TMD8						ABC DLBCL cell line	
+SRP149386	SRX4145145	SRR7239314	9606	TMD8 sgPRMT5 6-1		expressing sgRNA targeting PRMT5							TMD8 sgPRMT5 6 days											20ng/ml doxycycline for 6 days.			TMD8						ABC DLBCL cell line	
+SRP149386	SRX4145146	SRR7239315	9606	TMD8 sgPRMT5 6-2		expressing sgRNA targeting PRMT5							TMD8 sgPRMT5 6 days											20ng/ml doxycycline for 6 days.			TMD8						ABC DLBCL cell line	
+SRP149386	SRX4145147	SRR7239316	9606	OCI-Ly7 sgPRMT5 0-1		expressing sgRNA targeting PRMT5							OCI-Ly7 sgPRMT5 0 day											20ng/ml doxycycline for 0 days.			OCI-Ly7						GCB DLBCL cell line	
+SRP149386	SRX4145148	SRR7239317	9606	OCI-Ly7 sgPRMT5 0-2		expressing sgRNA targeting PRMT5							OCI-Ly7 sgPRMT5 0 day											20ng/ml doxycycline for 0 days.			OCI-Ly7						GCB DLBCL cell line	
+SRP149386	SRX4145149	SRR7239318	9606	OCI-Ly7 sgPRMT5 3-1		expressing sgRNA targeting PRMT5							OCI-Ly7 sgPRMT5 3 days											20ng/ml doxycycline for 3 days.			OCI-Ly7						GCB DLBCL cell line	
+SRP149386	SRX4145150	SRR7239319	9606	OCI-Ly7 sgPRMT5 3-2		expressing sgRNA targeting PRMT5							OCI-Ly7 sgPRMT5 3 days											20ng/ml doxycycline for 3 days.			OCI-Ly7						GCB DLBCL cell line	
+SRP149386	SRX4145151	SRR7239320	9606	OCI-Ly7 sgPRMT5 6-1		expressing sgRNA targeting PRMT5							OCI-Ly7 sgPRMT5 6 days											20ng/ml doxycycline for 6 days.			OCI-Ly7						GCB DLBCL cell line	
+SRP149386	SRX4145152	SRR7239321	9606	OCI-Ly7 sgPRMT5 6-2		expressing sgRNA targeting PRMT5							OCI-Ly7 sgPRMT5 6 days											20ng/ml doxycycline for 6 days.			OCI-Ly7						GCB DLBCL cell line	
+SRP153104	SRX4381885	SRR7511789	9606	SUDHL6_VEH_24H_R1									SUDHL6 cells		Vehicle (0.01% DMSO)												SUDHL6							24 h
+SRP153104	SRX4381886	SRR7511790	9606	SUDHL6_VEH_24H_R2									SUDHL6 cells		Vehicle (0.01% DMSO)												SUDHL6							24 h
+SRP153104	SRX4381887	SRR7511791	9606	SUDHL6_VEH_24H_R3									SUDHL6 cells		Vehicle (0.01% DMSO)												SUDHL6							24 h
+SRP153104	SRX4381888	SRR7511792	9606	SUDHL6_GSK591_24H_R1									SUDHL6 cells		200nm GSK591												SUDHL6							24 h
+SRP153104	SRX4381889	SRR7511793	9606	SUDHL6_GSK591_24H_R2									SUDHL6 cells		200nm GSK591												SUDHL6							24 h
+SRP153104	SRX4381890	SRR7511794	9606	SUDHL6_GSK591_24H_R3									SUDHL6 cells		200nm GSK591												SUDHL6							24 h
+SRP153104	SRX4381891	SRR7511795	9606	SUDHL6_VEH_96H_R1									SUDHL6 cells		Vehicle (0.01% DMSO)												SUDHL6							96 h
+SRP153104	SRX4381892	SRR7511796	9606	SUDHL6_VEH_96H_R2									SUDHL6 cells		Vehicle (0.01% DMSO)												SUDHL6							96 h
+SRP153104	SRX4381893	SRR7511797	9606	SUDHL6_VEH_96H_R3									SUDHL6 cells		Vehicle (0.01% DMSO)												SUDHL6							96 h
+SRP153104	SRX4381894	SRR7511798	9606	SUDHL6_GSK591_96H_R1									SUDHL6 cells		200nm GSK591												SUDHL6							96 h
+SRP153104	SRX4381895	SRR7511799	9606	SUDHL6_GSK591_96H_R2									SUDHL6 cells		200nm GSK591												SUDHL6							96 h
+SRP153104	SRX4381896	SRR7511800	9606	SUDHL6_GSK591_96H_R3									SUDHL6 cells		200nm GSK591												SUDHL6							96 h
+SRP149386	SRX4923686	SRR8096863	12111																															
+SRP186070	SRX5383617	SRR8582918	9606	PANC08.13_N1_DMSO	Replicate #1								Pancreatic cancer cell line		Control (DMSO)												PANC08.13							
+SRP186070	SRX5383618	SRR8582919	9606	PANC08.13_N1_GSK712	Replicate #1								Pancreatic cancer cell line		Treated (GSK3368712)												PANC08.13							
+SRP186070	SRX5383619	SRR8582920	9606	PANC08.13_N2_DMSO	Replicate #2								Pancreatic cancer cell line		Control (DMSO)												PANC08.13							
+SRP186070	SRX5383620	SRR8582921	9606	PANC08.13_N2_GSK712	Replicate #2								Pancreatic cancer cell line		Treated (GSK3368712)												PANC08.13							
+SRP186070	SRX5383621	SRR8582922	9606	PANC03.27_MTAP_WT_DMSO_N1	Replicate #1								Pancreatic cancer cell line		Control (DMSO)												PANC03.27		Parental					
+SRP186070	SRX5383622	SRR8582923	9606	PANC03.27_MTAP_WT_DMSO_N2	Replicate #2								Pancreatic cancer cell line		Control (DMSO)												PANC03.27		Parental					
+SRP186070	SRX5383623	SRR8582924	9606	PANC03.27_MTAP_WT_GSK712_N1	Replicate #1								Pancreatic cancer cell line		Treated (GSK3368712)												PANC03.27		Parental					
+SRP186070	SRX5383624	SRR8582925	9606	PANC03.27_MTAP_WT_GSK712_N2	Replicate #2								Pancreatic cancer cell line		Treated (GSK3368712)												PANC03.27		Parental					
+SRP186070	SRX5383625	SRR8582926	9606	PANC03.27_MTAP_WT_GSK591_N1	Replicate #1								Pancreatic cancer cell line		Treated (GSK3203591)												PANC03.27		Parental					
+SRP186070	SRX5383626	SRR8582927	9606	PANC03.27_MTAP_WT_GSK591_N2	Replicate #2								Pancreatic cancer cell line		Treated (GSK3203591)												PANC03.27		Parental					
+SRP186070	SRX5383627	SRR8582928	9606	PANC03.27_MTAP_WT_Combo_N1	Replicate #1								Pancreatic cancer cell line		Treated (Combination)												PANC03.27		Parental					
+SRP186070	SRX5383628	SRR8582929	9606	PANC03.27_MTAP_WT_Combo_N2	Replicate #2								Pancreatic cancer cell line		Treated (Combination)												PANC03.27		Parental					
+SRP186070	SRX5383629	SRR8582930	9606	PANC03.27_MTAP_KO_DMSO_N1	Replicate #1								Pancreatic cancer cell line		Control (DMSO)												PANC03.27		Knock out					
+SRP186070	SRX5383630	SRR8582931	9606	PANC03.27_MTAP_KO_DMSO_N2	Replicate #2								Pancreatic cancer cell line		Control (DMSO)												PANC03.27		Knock out					
+SRP186070	SRX5383631	SRR8582932	9606	PANC03.27_MTAP_KO_GSK712_N1	Replicate #1								Pancreatic cancer cell line		Treated (GSK3368712)												PANC03.27		Knock out					
+SRP186070	SRX5383632	SRR8582933	9606	PANC03.27_MTAP_KO_GSK712_N2	Replicate #2								Pancreatic cancer cell line		Treated (GSK3368712)												PANC03.27		Knock out					
+SRP186070	SRX5383633	SRR8582934	9606	PANC03.27_MTAP_KO_GSK591_N1	Replicate #1								Pancreatic cancer cell line		Treated (GSK3203591)												PANC03.27		Knock out					
+SRP186070	SRX5383634	SRR8582935	9606	PANC03.27_MTAP_KO_GSK591_N2	Replicate #2								Pancreatic cancer cell line		Treated (GSK3203591)												PANC03.27		Knock out					
+SRP186070	SRX5383635	SRR8582936	9606	PANC03.27_MTAP_KO_Combo_N1	Replicate #1								Pancreatic cancer cell line		Treated (Combination)												PANC03.27		Knock out					
+SRP186070	SRX5383636	SRR8582937	9606	PANC03.27_MTAP_KO_Combo_N2	Replicate #2								Pancreatic cancer cell line		Treated (Combination)												PANC03.27		Knock out					
+SRP188498	SRX5524953	SRR8732091	9606	CB11 MLL-AF4									CD34+ HSPCs from cord blood																				CD34+ HSPCs from cord blood	
+SRP188498	SRX5524954	SRR8732092	9606	CB11 control									CD34+ HSPCs from cord blood																				CD34+ HSPCs from cord blood	
+SRP188498	SRX5524955	SRR8732093	9606	CB12 MLL-AF4									CD34+ HSPCs from cord blood																				CD34+ HSPCs from cord blood	
+SRP188498	SRX5524956	SRR8732094	9606	CB12 control									CD34+ HSPCs from cord blood																				CD34+ HSPCs from cord blood	
+SRP192029	SRX5668347		9606	THP-1 cells_sgNegCtrl									Acute myeloid leukemia cell line			peripheral blood	control										THP-1						monocyte	
+SRP192029	SRX5668348		9606	THP-1 cells_sgPRMT5									Acute myeloid leukemia cell line			peripheral blood	PRMT5 knockdown										THP-1						monocyte	
+SRP193479	SRX5725633	SRR8945501	9606	HeLa: input DNA									HeLa cell							none							HeLa							
+SRP193479	SRX5725634	SRR8945502	9606	HeLa: Snail_ChIPSeq									HeLa cell							Snail							HeLa							
+SRP193479	SRX5725635		9606	HeLa: MTA1_ChIPSeq									HeLa cell							MTA1							HeLa							
+SRP193479	SRX5725636		9606	HeLa: PRMT5_ChIPSeq									HeLa cell							PRMT5							HeLa							
+SRP200813	SRX5987866	SRR9217367	9606	Molm13_DMSO_rep1									Molm13														Molm13					DMSO Control	Acute Myeloid Leukemia	
+SRP200813	SRX5987867	SRR9217368	9606	Molm13_DMSO_rep2									Molm13														Molm13					DMSO Control	Acute Myeloid Leukemia	
+SRP200813	SRX5987868	SRR9217369	9606	Molm13_DMSO_rep3									Molm13														Molm13					DMSO Control	Acute Myeloid Leukemia	
+SRP200813	SRX5987869	SRR9217370	9606	Molm13_DMSO_rep4									Molm13														Molm13					DMSO Control	Acute Myeloid Leukemia	
+SRP200813	SRX5987870	SRR9217371	9606	Molm13_EZH2i_rep1									Molm13														Molm13					EZH2 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987871	SRR9217372	9606	Molm13_EZH2i_rep2									Molm13														Molm13					EZH2 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987872	SRR9217373	9606	Molm13_EZH2i_rep3									Molm13														Molm13					EZH2 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987873	SRR9217374	9606	Molm13_EZH2i_rep4									Molm13														Molm13					EZH2 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987874	SRR9217375	9606	Molm13_P5i_1uM_rep1									Molm13														Molm13					PRMT5 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987875	SRR9217376	9606	Molm13_P5i_1uM_rep2									Molm13														Molm13					PRMT5 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987876	SRR9217377	9606	Molm13_P5i_1uM_rep3									Molm13														Molm13					PRMT5 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987877	SRR9217378	9606	Molm13_P5i_1uM_rep4									Molm13														Molm13					PRMT5 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987878	SRR9217379	9606	Molm13_PE_rep1									Molm13														Molm13					PRMT5 and EZH2 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987879	SRR9217380	9606	Molm13_PE_rep2									Molm13														Molm13					PRMT5 and EZH2 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987880	SRR9217381	9606	Molm13_PE_rep3									Molm13														Molm13					PRMT5 and EZH2 Inhibition	Acute Myeloid Leukemia	
+SRP200813	SRX5987881	SRR9217382	9606	Molm13_PE_rep4									Molm13														Molm13					PRMT5 and EZH2 Inhibition	Acute Myeloid Leukemia	
+SRP212665	SRX6384947		9606	A375AR991-S2	Replicate 1								A375AR991 cell line		increasing concentrations of palbociclib for 7 months												A375AR991	Melanoma						
+SRP212665	SRX6384948		9606	A375AR991-S3	Replicate 2								A375AR991 cell line		increasing concentrations of palbociclib for 7 months												A375AR991	Melanoma						
+SRP212665	SRX6384949		9606	A375AR991-S4	Replicate 3								A375AR991 cell line		increasing concentrations of palbociclib for 7 months												A375AR991	Melanoma						
+SRP212665	SRX6384950		9606	A375-S2	Replicate 1								A375 cell line		No treatment												A375	Melanoma						
+SRP212665	SRX6384951		9606	A375-S3	Replicate 2								A375 cell line		No treatment												A375	Melanoma						
+SRP212665	SRX6384952		9606	A375-S4	Replicate 3								A375 cell line		No treatment												A375	Melanoma						
+SRP212665	SRX6384953		9606	CHL1AR991-S2	Replicate 1								CHL1AR991 cell line		increasing concentrations of palbociclib for 3 months												CHL1AR991	Melanoma						
+SRP212665	SRX6384954		9606	CHL1AR991-S3	Replicate 2								CHL1AR991 cell line		increasing concentrations of palbociclib for 3 months												CHL1AR991	Melanoma						
+SRP212665	SRX6384955		9606	CHL1AR991-S4	Replicate 3								CHL1AR991 cell line		increasing concentrations of palbociclib for 3 months												CHL1AR991	Melanoma						
+SRP212665	SRX6384956		9606	CHL1-S2	Replicate 1								CHL1 cell line		No treatment												CHL1	Melanoma						
+SRP212665	SRX6384957		9606	CHL1-S3	Replicate 2								CHL1 cell line		No treatment												CHL1	Melanoma						
+SRP212665	SRX6384958		9606	CHL1-S4	Replicate 3								CHL1 cell line		No treatment												CHL1	Melanoma						
+SRP212666	SRX6384959	SRR9622111	9606	A375-DMSO-72hr-1	Replicate 1								A375-DMSO-72hr		Vehicle (DMSO) - 72 hr												A375	Melanoma						
+SRP212666	SRX6384960	SRR9622112	9606	A375-DMSO-72hr-2	Replicate 2								A375-DMSO-72hr		Vehicle (DMSO) - 72 hr												A375	Melanoma						
+SRP212666	SRX6384961	SRR9622113	9606	A375-PD991-72hr-1	Replicate 1								A375-PD991-72hr		Palbociclib (PD991) - 72hr												A375	Melanoma						
+SRP212666	SRX6384962	SRR9622114	9606	A375-PD991-72hr-2	Replicate 2								A375-PD991-72hr		Palbociclib (PD991) - 72hr												A375	Melanoma						
+SRP212666	SRX6384963	SRR9622115	9606	A375-CTX-72hr-1	Replicate 1								A375-CTX-72hr		GSK3326595 (CTX) - 72hr												A375	Melanoma						
+SRP212666	SRX6384964	SRR9622116	9606	A375-CTX-72hr-2	Replicate 2								A375-CTX-72hr		GSK3326595 (CTX) - 72hr												A375	Melanoma						
+SRP192029	SRX6592099		9606	sgNegCtrl		control							Acute myeloid leukemia cell line			peripheral blood											THP-1						monocyte	
+SRP192029	SRX6592100		9606	sgPRMT5		PRMT5 knockdown							Acute myeloid leukemia cell line			peripheral blood											THP-1						monocyte	
+SRP235229	SRX7290481	SRR10611209	9606	72h DMSO activated CD4+ rep 2									72h DMSO activated CD4+		72h DMSO	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290482	SRR10611210	9606	72h DMSO activated CD4+ rep 3									72h DMSO activated CD4+		72h DMSO	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290483	SRR10611211	9606	72h PF-9927 activated CD4+ rep 1									72h PF-9927 activated CD4+		72h PF-9927	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290484	SRR10611212	9606	72h PF-9927 activated CD4+ rep 2									72h PF-9927 activated CD4+		72h PF-9927	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290485	SRR10611213	9606	72h PF-9927 activated CD4+ rep 3									72h PF-9927 activated CD4+		72h PF-9927	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290486	SRR10611214	9606	Naïve CD8+ rep 1									Naïve CD8+			peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290487	SRR10611215	9606	Naïve CD8+ rep 2									Naïve CD8+			peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290488	SRR10611216	9606	Naïve CD8+ rep 3									Naïve CD8+			peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290489	SRR10611217	9606	72h DMSO activated CD8+ rep 1									72h DMSO activated CD8+		72h DMSO	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290490	SRR10611218	9606	72h DMSO activated CD8+ rep 2									72h DMSO activated CD8+		72h DMSO	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290491	SRR10611219	9606	72h DMSO activated CD8+ rep 3									72h DMSO activated CD8+		72h DMSO	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290492	SRR10611220	9606	72h PF-9927 activated CD8+ rep 1									72h PF-9927 activated CD8+		72h PF-9927	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290493	SRR10611221	9606	72h PF-9927 activated CD8+ rep 2									72h PF-9927 activated CD8+		72h PF-9927	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290494	SRR10611222	9606	72h PF-9927 activated CD8+ rep 3									72h PF-9927 activated CD8+		72h PF-9927	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290495	SRR10611223	9606	96h DMSO activated CD3+ rep 1									96h DMSO activated CD3+		96h DMSO	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290496	SRR10611224	9606	96h DMSO activated CD3+ rep 2									96h DMSO activated CD3+		96h DMSO	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290497	SRR10611225	9606	96h DMSO activated CD3+ rep 3									96h DMSO activated CD3+		96h DMSO	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290498	SRR10611226	9606	96h PF-9927 activated CD3+ rep 1									96h PF-9927 activated CD3+		96h PF-9927	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290499	SRR10611227	9606	96h PF-9927 activated CD3+ rep 2									96h PF-9927 activated CD3+		96h PF-9927	peripheral blood																	Naive T lymphocytes	
+SRP235229	SRX7290500	SRR10611228	9606	96h PF-9927 activated CD3+ rep 3									96h PF-9927 activated CD3+		96h PF-9927	peripheral blood																	Naive T lymphocytes	
+SRP236876	SRX7347965	SRR10669490	9606	MLL-AF4_1 d4 DMSO									CD34+ HSPCs from cord blood		DMSO																			
+SRP236876	SRX7347966	SRR10669491	9606	MLL-AF4_1 d4 15µM									CD34+ HSPCs from cord blood		15 µM PF-366																			
+SRP236876	SRX7347967	SRR10669492	9606	MLL-AF4_2 d4 DMSO									CD34+ HSPCs from cord blood		DMSO																			
+SRP236876	SRX7347968	SRR10669493	9606	MLL-AF4_2 d4 15µM									CD34+ HSPCs from cord blood		15 µM PF-366																			
+SRP238361	SRX7422009	SRR10746625	9606	WT cell line RNA-seq replicate 1									HCT116 stable cells														HCT116			empty vector cell line			Colorectal carcinoma	
+SRP238361	SRX7422010	SRR10746626	9606	WT cell line RNA-seq replicate 2									HCT116 stable cells														HCT116			empty vector cell line			Colorectal carcinoma	
+SRP238361	SRX7422011	SRR10746627	9606	WT cell line RNA-seq replicate 3									HCT116 stable cells														HCT116			empty vector cell line			Colorectal carcinoma	
+SRP238361	SRX7422012	SRR10746628	9606	WT T1-44 cell line RNA-seq replicate 1									HCT116 stable cells														HCT116			empty vector cell line treated with PRMT5 inhibitor	PRMT5 inhibitor treatment: 1uM, 48h		Colorectal carcinoma	
+SRP238361	SRX7422013	SRR10746629	9606	WT T1-44 cell line RNA-seq replicate 2									HCT116 stable cells														HCT116			empty vector cell line treated with PRMT5 inhibitor	PRMT5 inhibitor treatment: 1uM, 48h		Colorectal carcinoma	
+SRP238361	SRX7422014	SRR10746630	9606	WT T1-44 cell line RNA-seq replicate 3									HCT116 stable cells														HCT116			empty vector cell line treated with PRMT5 inhibitor	PRMT5 inhibitor treatment: 1uM, 48h		Colorectal carcinoma	
+SRP238361	SRX7422015	SRR10746631	9606	E2F1Cr cell line RNA-seq replicate 1									HCT116 stable cells with E2F1 knockdown														HCT116			E2F1 knockdown cell line			Colorectal carcinoma	
+SRP238361	SRX7422016	SRR10746632	9606	E2F1Cr cell line RNA-seq replicate 2									HCT116 stable cells with E2F1 knockdown														HCT116			E2F1 knockdown cell line			Colorectal carcinoma	
+SRP238361	SRX7422017	SRR10746633	9606	E2F1Cr cell line RNA-seq replicate 3									HCT116 stable cells with E2F1 knockdown														HCT116			E2F1 knockdown cell line			Colorectal carcinoma	
+SRP238361	SRX7422018	SRR10746634	9606	E2F1Cr T1-44 cell line RNA-seq replicate 1									HCT116 stable cells with E2F1 knockdown														HCT116			E2F1 knockdown cell line treated with PRMT5 inhibitor	PRMT5 inhibitor treatment: 1uM, 48h		Colorectal carcinoma	
+SRP238361	SRX7422019	SRR10746635	9606	E2F1Cr T1-44 cell line RNA-seq replicate 2									HCT116 stable cells with E2F1 knockdown														HCT116			E2F1 knockdown cell line treated with PRMT5 inhibitor	PRMT5 inhibitor treatment: 1uM, 48h		Colorectal carcinoma	
+SRP238361	SRX7422020	SRR10746636	9606	E2F1Cr T1-44 cell line RNA-seq replicate 3									HCT116 stable cells with E2F1 knockdown														HCT116			E2F1 knockdown cell line treated with PRMT5 inhibitor	PRMT5 inhibitor treatment: 1uM, 48h		Colorectal carcinoma	
+SRP249999	SRX7748807	SRR11111787	9606	RPHD7DMS									T cells		RPHD7 T cells CD3/CD28 +DMSO																			
+SRP249999	SRX7748808	SRR11111788	9606	RPHD7 PRT									T cells		RPHD7 T cells CD3/CD28 +PRMT5 INHIBITOR																			
+SRP249999	SRX7748809	SRR11111789	9606	RPHD17DM									T cells		RPHD17 T cells CD3/CD28 +DMSO																			
+SRP249999	SRX7748810	SRR11111790	9606	RPHD17PR									T cells		RPHD17 T cells CD3/CD28 +PRMT5 INHIBITOR																			
+SRP249999	SRX7748811	SRR11111791	9606	RPHD18DM									T cells		RPHD18 T cells CD3/CD28 +DMSO																			
+SRP249999	SRX7748812	SRR11111792	9606	RPHD18PR									T cells		RPHD18 T cells CD3/CD28 +PRMT5 INHIBITOR																			
+SRP249999	SRX7748813	SRR11111793	9606	RPHD19DM									T cells		RPHD19 T cells CD3/CD28 +DMSO																			
+SRP249999	SRX7748814	SRR11111794	9606	RPHD19PR									T cells		RPHD19 T cells CD3/CD28 +PRMT5 INHIBITOR																			
+SRP050943	SRX799449	SRR1696812	9606	esiGFP-r1									Hela cells (cervical cancer cells)														Hela							
+SRP050943	SRX799450	SRR1696813	9606	esiPRMT9-r1									Hela cells (cervical cancer cells)														Hela							
+SRP050943	SRX799451	SRR1696814	9606	esiGFP-r2									Hela cells (cervical cancer cells)														Hela							
+SRP050943	SRX799452	SRR1696815	9606	esiPRMT9-r2									Hela cells (cervical cancer cells)														Hela							
+SRP260446	SRX8287701	SRR11728467	9606	RNA-Seq-siCTL-HEK293									HEK293		siCTL-HEK293	Human Embryonic Kidney											HEK293							
+SRP260446	SRX8287702	SRR11728468	9606	RNA-Seq-siPRMT4-HEK293									HEK293		siPRMT4-HEK293	Human Embryonic Kidney											HEK293							
+SRP260446	SRX8287703	SRR11728469	9606	RNA-Seq-siPRMT5-HEK293									HEK293		siPRMT5-HEK293	Human Embryonic Kidney											HEK293							
+SRP260446	SRX8287704	SRR11728470	9606	RNA-Seq-siPRMT7-HEK293									HEK293		siPRMT7-HEK293	Human Embryonic Kidney											HEK293							
+SRP267712	SRX8567881	SRR12038075	9606	Melanoma, untreated, A0-2_S28									Melanoma, untreated		untreated		BRAFV600E										A375s							
+SRP267712	SRX8567882	SRR12038076	9606	Melanoma, untreated, A0-3_S29									Melanoma, untreated		untreated		BRAFV600E										A375s							
+SRP267712	SRX8567883	SRR12038077	9606	Melanoma, untreated, A0-4_S30									Melanoma, untreated		untreated		BRAFV600E										A375s							
+SRP267712	SRX8567884	SRR12038078	9606	Melanoma, Verafinib, A20-1_S31									Melanoma, Verafinib		2 µM Verafinib for 20 days		BRAFV600E										A375s							
+SRP267712	SRX8567885	SRR12038079	9606	Melanoma, Verafinib, A20-2_S32									Melanoma, Verafinib		2 µM Verafinib for 20 days		BRAFV600E										A375s							
+SRP267712	SRX8567886	SRR12038080	9606	Melanoma, Verafinib, A20-3_S33									Melanoma, Verafinib		2 µM Verafinib for 20 days		BRAFV600E										A375s							
+SRP267712	SRX8567887	SRR12038081	9606	Melanoma, untreated, M0-1_S34									Melanoma, untreated		untreated		BRAFV600E										M14s							
+SRP267712	SRX8567888	SRR12038082	9606	Melanoma, untreated, M0-2_S35									Melanoma, untreated		untreated		BRAFV600E										M14s							
+SRP267712	SRX8567889	SRR12038083	9606	Melanoma, untreated, M0-3_S36									Melanoma, untreated		untreated		BRAFV600E										M14s							
+SRP267712	SRX8567890	SRR12038084	9606	Melanoma, Verafinib, M20-1_S37									Melanoma, Verafinib		2 µM Verafinib for 20 days		BRAFV600E										M14s							
+SRP267712	SRX8567891	SRR12038085	9606	Melanoma, Verafinib, M20-2_S38									Melanoma, Verafinib		2 µM Verafinib for 20 days		BRAFV600E										M14s							
+SRP267712	SRX8567892	SRR12038086	9606	Melanoma, Verafinib, M20-3_S39									Melanoma, Verafinib		2 µM Verafinib for 20 days		BRAFV600E										M14s							
+SRP268625	SRX8608945	SRR12081762	9606	HEK293T_PRMT-shScramble									HEK293T cell line		Scramble shRNA control												HEK293T							
+SRP268625	SRX8608946	SRR12081763	9606	HEK293T_PRMT1-sh1									HEK293T cell line		PRMT1 knockdown												HEK293T							
+SRP268625	SRX8608947	SRR12081764	9606	HEK293T_PRMT1-sh3									HEK293T cell line		PRMT1 knockdown												HEK293T							
+SRP268625	SRX8608948	SRR12081765	9606	HEK293T_PRMT3-sh1									HEK293T cell line		PRMT3 knockdown												HEK293T							
+SRP268625	SRX8608949	SRR12081766	9606	HEK293T_PRMT3-sh2									HEK293T cell line		PRMT3 knockdown												HEK293T							
+SRP268625	SRX8608950	SRR12081767	9606	HEK293T_PRMT4-sh1									HEK293T cell line		PRMT4 knockdown												HEK293T							
+SRP268625	SRX8608951	SRR12081768	9606	HEK293T_PRMT4-sh3									HEK293T cell line		PRMT4 knockdown												HEK293T							
+SRP268625	SRX8608952	SRR12081769	9606	HEK293T_PRMT5-sh1									HEK293T cell line		PRMT5 knockdown												HEK293T							
+SRP268625	SRX8608953	SRR12081770	9606	HEK293T_PRMT5-sh2									HEK293T cell line		PRMT5 knockdown												HEK293T							
+SRP268625	SRX8608954	SRR12081771	9606	HEK293T_PRMT6-sh3									HEK293T cell line		PRMT6 knockdown												HEK293T							
+SRP268625	SRX8608955	SRR12081772	9606	HEK293T_PRMT7-sh2									HEK293T cell line		PRMT7 knockdown												HEK293T							
+SRP268625	SRX8608956	SRR12081773	9606	HEK293T_PRMT7-sh3									HEK293T cell line		PRMT7 knockdown												HEK293T							
+SRP268628	SRX8609009	SRR12081852	9606	293T_DMSO_input				total input					HEK293T cell line		treated with DMSO												HEK293T							
+SRP268628	SRX8609010	SRR12081853	9606	293T_DMSO_1ribosome				bound with one ribosome (monosome)					HEK293T cell line		treated with DMSO												HEK293T							
+SRP268628	SRX8609011	SRR12081854	9606	293T_DMSO_2ribosome				bound with two ribosomes					HEK293T cell line		treated with DMSO												HEK293T							
+SRP268628	SRX8609012	SRR12081855	9606	293T_DMSO_3ribosome				bound with three or more ribosomes					HEK293T cell line		treated with DMSO												HEK293T							
+SRP268628	SRX8609013	SRR12081856	9606	293T_PRMT1-inhibitor_input				total input					HEK293T cell line		treated with PRMT1 inhibitor												HEK293T							
+SRP268628	SRX8609014	SRR12081857	9606	293T_PRMT1-inhibitor_1ribosome				bound with one ribosome (monosome)					HEK293T cell line		treated with PRMT1 inhibitor												HEK293T							
+SRP268628	SRX8609015	SRR12081858	9606	293T_PRMT1-inhibitor_2ribosome				bound with two ribosomes					HEK293T cell line		treated with PRMT1 inhibitor												HEK293T							
+SRP268628	SRX8609016	SRR12081859	9606	293T_PRMT1-inhibitor_3ribosome				bound with three or more ribosomes					HEK293T cell line		treated with PRMT1 inhibitor												HEK293T							
+SRP268628	SRX8609017	SRR12081860	9606	293T_PRMT4-inhibitor_input				total input					HEK293T cell line		treated with PRMT4 inhibitor												HEK293T							
+SRP268628	SRX8609018	SRR12081861	9606	293T_PRMT4-inhibitor_1ribosome				bound with one ribosome (monosome)					HEK293T cell line		treated with PRMT4 inhibitor												HEK293T							
+SRP268628	SRX8609019	SRR12081862	9606	293T_PRMT4-inhibitor_2ribosome				bound with two ribosomes					HEK293T cell line		treated with PRMT4 inhibitor												HEK293T							
+SRP268628	SRX8609020	SRR12081863	9606	293T_PRMT4-inhibitor_3ribosome				bound with three or more ribosomes					HEK293T cell line		treated with PRMT4 inhibitor												HEK293T							
+SRP271938	SRX8733843	SRR12223772	9606	Tu686_SiP5_1		siPRMT5-1							Tu686_siPRMT5														Tu686						Epithelial-derived cells	
+SRP271938	SRX8733844	SRR12223773	9606	Tu686_SiP5_2		siPRMT5-2							Tu686_siPRMT5														Tu686						Epithelial-derived cells	
+SRP271938	SRX8733845	SRR12223774	9606	Tu686_SiNC		siNC-1							Tu686_siNC														Tu686						Epithelial-derived cells	
+SRP271938	SRX8733846	SRR12223775	9606	SiNC_P5		siNC-2							Tu686_siNC														Tu686						Epithelial-derived cells	
+SRP273237	SRX8804971	SRR12301933	9606	22Rv1-shPRMT5-BR2-Dox-					BR2		shPRMT5		Human castration-resistant prostate cancer cells 22Rv1												Dox -									
+SRP273237	SRX8804972	SRR12301934	9606	22Rv1-shPRMT5-BR2-Dox+					BR2		shPRMT5		Human castration-resistant prostate cancer cells 22Rv1												Dox +									
+SRP273237	SRX8804973	SRR12301935	9606	22Rv1-shPRMT5-BR3-Dox-					BR3		shPRMT5		Human castration-resistant prostate cancer cells 22Rv1												Dox -									
+SRP273237	SRX8804974	SRR12301936	9606	22Rv1-shPRMT5-BR3-Dox+					BR3		shPRMT5		Human castration-resistant prostate cancer cells 22Rv1												Dox +									
+SRP273237	SRX8804975	SRR12301937	9606	22Rv1-shMEP50-BR1-Dox-					BR1		shMEP50		Human castration-resistant prostate cancer cells 22Rv1												Dox -									
+SRP273237	SRX8804976	SRR12301938	9606	22Rv1-shMEP50-BR1-Dox+					BR1		shMEP50		Human castration-resistant prostate cancer cells 22Rv1												Dox +									
+SRP273237	SRX8804977	SRR12301939	9606	22Rv1-shMEP50-BR2-Dox-					BR2		shMEP50		Human castration-resistant prostate cancer cells 22Rv1												Dox -									
+SRP273237	SRX8804978	SRR12301940	9606	22Rv1-shMEP50-BR2-Dox+					BR2		shMEP50		Human castration-resistant prostate cancer cells 22Rv1												Dox +									
+SRP273237	SRX8804979	SRR12301941	9606	22Rv1-shMEP50-BR3-Dox-					BR3		shMEP50		Human castration-resistant prostate cancer cells 22Rv1												Dox -									
+SRP273237	SRX8804980	SRR12301942	9606	22Rv1-shMEP50-BR3-Dox+					BR3		shMEP50		Human castration-resistant prostate cancer cells 22Rv1												Dox +									
+SRP273237	SRX8804981	SRR12301943	9606	22Rv1-shpICln-BR1-Dox-					BR1		shpICln		Human castration-resistant prostate cancer cells 22Rv1												Dox -									
+SRP273237	SRX8804982	SRR12301944	9606	22Rv1-shpICln-BR1-Dox+					BR1		shpICln		Human castration-resistant prostate cancer cells 22Rv1												Dox +									
+SRP273237	SRX8804983	SRR12301945	9606	22Rv1-shpICln-BR2-Dox-					BR2		shpICln		Human castration-resistant prostate cancer cells 22Rv1												Dox -									
+SRP273237	SRX8804984	SRR12301946	9606	22Rv1-shpICln-BR2-Dox+					BR2		shpICln		Human castration-resistant prostate cancer cells 22Rv1												Dox +									
+SRP273237	SRX8804985	SRR12301947	9606	22Rv1-shpICln-BR3-Dox-					BR3		shpICln		Human castration-resistant prostate cancer cells 22Rv1												Dox -									
+SRP273237	SRX8804986	SRR12301948	9606	22Rv1-shpICln-BR3-Dox+					BR3		shpICln		Human castration-resistant prostate cancer cells 22Rv1												Dox +									
+SRP275768	SRX8882101	SRR12383420	9606	MDA-MB-231-1-input								human genome hg38	breast cancer cells		parental cells	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882102	SRR12383421	9606	MDA-MB-231-1-IP								human genome hg38	breast cancer cells		parental cells	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882103	SRR12383422	9606	MDA-MB-231-2-input								human genome hg38	breast cancer cells		parental cells	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882104	SRR12383423	9606	MDA-MB-231-2-IP								human genome hg38	breast cancer cells		parental cells	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882105	SRR12383424	9606	MDA-MB-231-DOX11-input								human genome hg38	breast cancer cells		parental cells treated with DOX	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882106	SRR12383425	9606	MDA-MB-231-DOX11-IP								human genome hg38	breast cancer cells		parental cells treated with DOX	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882107	SRR12383426	9606	MDA-MB-231-DOX12-input								human genome hg38	breast cancer cells		parental cells treated with DOX	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882108	SRR12383427	9606	MDA-MB-231-DOX12-IP								human genome hg38	breast cancer cells		parental cells treated with DOX	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882109	SRR12383428	9606	MDA-MB-231-PRM75-DOX11-input								human genome hg38	breast cancer cells		parental cells overexpressed with PRMT5 under DOX treatment	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882110	SRR12383429	9606	MDA-MB-231-PRM75-DOX11-IP								human genome hg38	breast cancer cells		parental cells overexpressed with PRMT5 under DOX treatment	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882111	SRR12383430	9606	MDA-MB-231-PRM75-DOX12-input								human genome hg38	breast cancer cells		parental cells overexpressed with PRMT6 under DOX treatment	breast cancer cells											MDA-MB-231							
+SRP275768	SRX8882112	SRR12383431	9606	MDA-MB-231-PRM75-DOX12-IP								human genome hg38	breast cancer cells		parental cells overexpressed with PRMT6 under DOX treatment	breast cancer cells											MDA-MB-231							
+SRP276651	SRX8908663		9606	DDX5 KD rep 2 DRIP-seq									Osteosarcoma				DDX5 KD			Monoclonal S9.6							U2OS							
+SRP276651	SRX8908664		9606	DDX5 KD input DRIP-seq									Osteosarcoma				DDX5 KD input			none							U2OS							
+SRP276651	SRX8908665		9606	PRMT5 KD rep 1 DRIP-seq									Osteosarcoma				PRMT5 KD			Monoclonal S9.6							U2OS							
+SRP276651	SRX8908666		9606	PRMT5 KD rep 2 DRIP-seq									Osteosarcoma				PRMT5 KD			Monoclonal S9.6							U2OS							
+SRP276651	SRX8908667		9606	PRMT5 KD input DRIP-seq									Osteosarcoma				PRMT5 KD input			none							U2OS							
+SRP276651	SRX8908668		9606	XRN2 KD rep 1 DRIP-seq									Osteosarcoma				XRN2 KD			Monoclonal S9.6							U2OS							
+SRP276651	SRX8908669		9606	XRN2 KD rep 2 DRIP-seq									Osteosarcoma				XRN2 KD			Monoclonal S9.6							U2OS							
+SRP276651	SRX8908670		9606	XRN2 KD input DRIP-seq									Osteosarcoma				XRN2 KD input			none							U2OS							
+SRP276651	SRX8908671		9606	Control rep 1 RNA-seq									Osteosarcoma				Control										U2OS							
+SRP276651	SRX8908672		9606	Control rep 2 RNA-seq									Osteosarcoma				Control										U2OS							
+SRP276651	SRX8908673		9606	Control rep 3 RNA-seq									Osteosarcoma				Control										U2OS							
+SRP276651	SRX8908674		9606	DDX5 KD rep 1 RNA-seq									Osteosarcoma				DDX5 KD										U2OS							
+SRP276651	SRX8908675		9606	DDX5 KD rep 2 RNA-seq									Osteosarcoma				DDX5 KD										U2OS							
+SRP276651	SRX8908676		9606	DDX5 KD rep 3 RNA-seq									Osteosarcoma				DDX5 KD										U2OS							
+SRP276651	SRX8908677		9606	PRMT5 KD rep 1 RNA-seq									Osteosarcoma				PRMT5 KD										U2OS							
+SRP276651	SRX8908678		9606	PRMT5 KD rep 2 RNA-seq									Osteosarcoma				PRMT5 KD										U2OS							
+SRP276651	SRX8908679		9606	PRMT5 KD rep 3 RNA-seq									Osteosarcoma				PRMT5 KD										U2OS							
+SRP276651	SRX8908680		9606	XRN2 KD rep 1 RNA-seq									Osteosarcoma				XRN2 KD										U2OS							
+SRP276651	SRX8908681		9606	XRN2 KD rep 2 RNA-seq									Osteosarcoma				XRN2 KD										U2OS							
+SRP276651	SRX8908682		9606	XRN2 KD rep 3 RNA-seq									Osteosarcoma				XRN2 KD										U2OS							
+SRP276681	SRX8910013	SRR12413842	9606	CON RNA-seq									Tu212 cells				control										Tu212						Epithelial-derived cells	
+SRP276681	SRX8910014	SRR12413843	9606	PRMT5 RNA-seq									Tu212 cells				PRMT5 overexpression										Tu212						Epithelial-derived cells	
+SRP285543	SRX9199738	SRR12721015	9606	A549 GSK591 7 days Rep1									A549		GSK591												A549						epithelial	
+SRP285543	SRX9199739	SRR12721016	9606	A549 GSK591 7 days Rep2									A549		GSK591												A549						epithelial	
+SRP285543	SRX9199740	SRR12721017	9606	A549 GSK591 7 days Rep3									A549		GSK591												A549						epithelial	
+SRP285543	SRX9199741	SRR12721018	9606	A549 MS023 7 days Rep1									A549		MS023												A549						epithelial	
+SRP285543	SRX9199742	SRR12721019	9606	A549 MS023 7 days Rep2									A549		MS023												A549						epithelial	
+SRP285543	SRX9199743	SRR12721020	9606	A549 MS023 7 days Rep3									A549		MS023												A549						epithelial	
+SRP285543	SRX9199744	SRR12721012	9606	A549 DMSO 7 days Rep1									A549		DMSO												A549						epithelial	
+SRP285543	SRX9199745	SRR12721013	9606	A549 DMSO 7 days Rep2									A549		DMSO												A549						epithelial	
+SRP285543	SRX9199746	SRR12721014	9606	A549 DMSO 7 days Rep3									A549		DMSO												A549						epithelial	
